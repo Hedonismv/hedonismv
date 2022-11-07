@@ -10,15 +10,15 @@ const vi = {
         },
         frontEnd: {
            main: [React, Next.js, Angular],
-           styles: [Styled-Components, MaterialUI, Tailwind, css, less, sass],
-           tools: [Redux, MobX, GraphQl (Apollo), RTK, RTKQ]
+           styles: [Styled-Components, MaterialUI, Tailwind, CSS, LESS, SASS],
+           tools: [Redux, MobX, GraphQl (Apollo), Redux Toolkit, Redux Toolkit Query]
         },
         mobileApp: {
             native: ["React Native"]
         },
         testing: ["Jest", "React Testing Lib", "Cypress"],
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", Django3],
+        databases: ["mongo", "MySql", "sqlite", "Django3"],
         misc: ["Firebase", "selenium"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],

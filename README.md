@@ -1,15 +1,30 @@
-### Hi there 👋
+### Fullstack Middle developer
 
-I am **Vi** working 
-
-
-- 🔭 I’m currently working as **Fullstack Developer**
-- 👯 I’m looking to collaborate on open source/commercial projects
-
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
+```javascript
+const vi = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "TypeScript", "PHP"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        frontEnd: {
+           main: [React, Next.js, Angular],
+           styles: [Styled-Components, MaterialUI, Tailwind, css, less, sass],
+           tools: [Redux, MobX, GraphQl (Apollo), RTK, RTKQ]
+        },
+        mobileApp: {
+            native: ["React Native"]
+        },
+        testing: ["Jest", "React Testing Lib", "Cypress"],
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite", Django3],
+        misc: ["Firebase", "selenium"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "WEB3",
+};
+```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedonismv&layout=compact&theme=dark&hide_border=true)
 

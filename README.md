@@ -7,6 +7,7 @@ const vi = {
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
+            python: [Django3]
         },
         frontEnd: {
            main: [React, Next.js, Angular],
@@ -17,7 +18,7 @@ const vi = {
             native: ["React Native"]
         },
         testing: ["Jest", "React Testing Lib", "Cypress"],
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite", "Django3"],
         misc: ["Firebase", "selenium"]
     },

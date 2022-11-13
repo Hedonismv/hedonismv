@@ -6,7 +6,7 @@ const vi = {
     code: ["Javascript", "Python", "TypeScript", "PHP"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Fastify", "Express", "Apollo"],
             python: [Django3]
         },
         frontEnd: {
@@ -19,11 +19,11 @@ const vi = {
         },
         testing: ["Jest", "React Testing Lib", "Cypress"],
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", "Django3"],
+        databases: ["mongo", "MySql", "sqlite", "Django3", "Firebase", "GgraphQL"],
         misc: ["Firebase", "selenium"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "WEB3",
+    currentFocus: "WEB3", "Solidity"
 };
 ```
 

@@ -2,7 +2,6 @@
 
 ```javascript
 const vi = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Python", "TypeScript", "PHP"],
     technologies: {
         backEnd: {
@@ -19,7 +18,7 @@ const vi = {
         },
         testing: ["Jest", "React Testing Lib", "Cypress"],
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", "Django3", "Firebase", "GgraphQL"],
+        databases: ["mongo", "MySql", "sqlite", "Firebase", "GgraphQL"],
         misc: ["Firebase", "selenium"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],

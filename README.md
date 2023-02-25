@@ -17,7 +17,7 @@ const vi = {
             native: ["React Native"]
         },
         testing: ["Jest", "React Testing Lib", "Cypress"],
-        devOps: ["AWS", "Docker🐳", "Nginx"],
+        devOps: ["Docker🐳"],
         databases: ["mongo", "MySql", "sqlite", "Firebase", "GgraphQL"],
         misc: ["Firebase", "selenium"]
     },
